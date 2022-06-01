@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Weverton</h1>
 <h3 align="center">Systems Analysis and Development Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wevertondevt" alt="wevertondevt" /></a> </p>
-
 - 🔭 I’m currently working on **Bots and Scripts**
 
 - 🌱 I’m currently learning **Python and Java**
