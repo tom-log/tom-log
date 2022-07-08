@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bots and Scripts**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **PHP and Python**
 
 - 👨‍💻 All of my projects are available at [https://wsfreelancer.me/](https://wsfreelancer.me/)
 
