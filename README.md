@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bots and Scripts**
 
-- 🌱 I’m currently learning **PHP and CSS**
+- 🌱 I’m currently learning **PHP/Laravel and CSS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.codebywev.com](https://portfolio.codebywev.com/)
 
