@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP and CSS**
 
-- 👨‍💻 All of my projects are available at [https://wsfreelancer.me/](https://wsfreelancer.me/)
+- 👨‍💻 All of my projects are available at [https://portfolio.codebywev.com](https://portfolio.codebywev.com/)
 
 - 📫 How to reach me **wevertondevt@gmail.com**
 
