@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP/Laravel and CSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.codebywev.com](https://portfolio.codebywev.com/)
+- 👨‍💻 All of my projects are available at **maintenance**
 
 - 📫 How to reach me **sec-code@proton.me**
 
