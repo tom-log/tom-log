@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-log&theme=dark&show_icons=true&locale=en" alt="weverton-sec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weverton-sec&theme=dark" alt="weverton-sec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tom-log&theme=dark" alt="weverton-sec" /></p>
 
