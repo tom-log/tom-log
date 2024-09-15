@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bots and Scripts**
 
-- 🌱 I’m currently learning **PHP/Laravel and CSS**
+- 🌱 I’m currently learning **PHP/Laravel**
 
 - 👨‍💻 All of my projects are available **<a href="https://recursosdev.online" target="_blank">here</a>**
 
