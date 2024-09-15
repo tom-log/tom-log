@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Weverton</h1>
-<h3 align="center">Systems Analysis and Development Student</h3>
+<h3 align="center">Systems Analysis and Development Graduate</h3>
 
 - 🔭 I’m currently working on **Bots and Scripts**
 
