@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Weverton</h1>
 <h3 align="center">Systems Analysis and Development Graduate</h3>
 
-- 🔭 I’m currently working on **Bots and Scripts**
+- 🔭 I’m currently working on **Backend, APIs, Automation, Bots, and SaaS Products**
 
-- 🌱 I’m currently learning **PHP/Laravel**
+- 🌱 I’m currently deepening my skills in **TypeScript, NestJS, Next.js, PostgreSQL, Prisma, Docker Compose, AWS, CI/CD, and DevOps practices**
 
 - 👨‍💻 All of my projects are available **<a href="https://recursosdev.online" target="_blank">here</a>**
 
